@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletService", "WalletService.csproj", "{760FCF4F-0739-4061-AE8C-A06049768DC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService", "..\Account Service\AccountService.csproj", "{43746353-535E-4BA4-9CCD-CB874E27C131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{760FCF4F-0739-4061-AE8C-A06049768DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{760FCF4F-0739-4061-AE8C-A06049768DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{760FCF4F-0739-4061-AE8C-A06049768DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43746353-535E-4BA4-9CCD-CB874E27C131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43746353-535E-4BA4-9CCD-CB874E27C131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43746353-535E-4BA4-9CCD-CB874E27C131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43746353-535E-4BA4-9CCD-CB874E27C131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
